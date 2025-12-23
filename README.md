@@ -1,4 +1,4 @@
-# World-Flat-House-Map
+# World Flat House Map
 World Flat House Map is a creative Minecraft map featuring a detailed city and landscape built on a flat world, including houses, an airport, gardens, and more.
 
 About the Map
